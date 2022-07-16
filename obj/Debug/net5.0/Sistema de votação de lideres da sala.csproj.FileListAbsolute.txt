@@ -1,0 +1,16 @@
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\bin\Debug\net5.0\Sistema de votação de lideres da sala.exe
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\bin\Debug\net5.0\Sistema de votação de lideres da sala.deps.json
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\bin\Debug\net5.0\Sistema de votação de lideres da sala.runtimeconfig.json
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\bin\Debug\net5.0\Sistema de votação de lideres da sala.runtimeconfig.dev.json
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\bin\Debug\net5.0\Sistema de votação de lideres da sala.dll
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\bin\Debug\net5.0\ref\Sistema de votação de lideres da sala.dll
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\bin\Debug\net5.0\Sistema de votação de lideres da sala.pdb
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\obj\Debug\net5.0\Sistema de votação de lideres da sala.csproj.AssemblyReference.cache
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\obj\Debug\net5.0\Sistema de votação de lideres da sala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\obj\Debug\net5.0\Sistema de votação de lideres da sala.AssemblyInfoInputs.cache
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\obj\Debug\net5.0\Sistema de votação de lideres da sala.AssemblyInfo.cs
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\obj\Debug\net5.0\Sistema de votação de lideres da sala.csproj.CoreCompileInputs.cache
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\obj\Debug\net5.0\Sistema de votação de lideres da sala.dll
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\obj\Debug\net5.0\ref\Sistema de votação de lideres da sala.dll
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\obj\Debug\net5.0\Sistema de votação de lideres da sala.pdb
+C:\Users\hydek\source\repos\Sistema de votação de lideres da sala\obj\Debug\net5.0\Sistema de votação de lideres da sala.genruntimeconfig.cache
